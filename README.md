@@ -1,7 +1,16 @@
 # shape-sort
 EECS 3311 - Software Design Project 1
 
-#Part I: Introduction
+## Table of Contents
+1. [Part I: Introduction](#introduction)
+2. [Part II: Design of the Solution](#design-of-the-solution)
+3. [Part III: Implementation of the Solution](#implementation-of-the-solution)
+4. [Part IV: Conclusion](#conclusion)
+
+***
+
+## Introduction
+***
 
 **Explain what the software project about and what are its goals**
 
@@ -11,8 +20,11 @@ EECS 3311 - Software Design Project 1
 
 **Explain how you are going to structure you report accordingly**
 
-#Part II: Design of the solution
+## Design of the Solution
+***
 
-#Part III: Implementation of the solution
+## Implementation of the Solution
+***
 
-#Part IV: Conclusion
+## Part IV: Conclusion
+***
